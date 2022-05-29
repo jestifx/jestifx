@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jestifx
+- 👋 Hy, I’m @jestifx
 - 👀 I’m interested in editing 
 - 🌱 I’m currently learning bot creation 
 - 💞️ I’m looking to collaborate on editing 
